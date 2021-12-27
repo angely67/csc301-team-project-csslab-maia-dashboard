@@ -1,3 +1,7 @@
+# README
+This is a group project done by Jing Jing (Angel) Yuan (me), Kevin Hong, Natalia Moran, Robin Gerster, Sina Abady, & William Wang for our client CSSLab, UofT for the Maia project. The project has a GPL license. 
+
+
 ### Deliverable 1 Planning Document
 https://github.com/csc301-fall-2021/team-project-4-csslab-uoft/tree/main/deliverable-1
 
