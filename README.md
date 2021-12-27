@@ -1,11 +1,19 @@
 # README
-This is a group project done by Jing Jing (Angel) Yuan (me), Kevin Hong, Natalia Moran, Robin Gerster, Sina Abady, & William Wang for our client CSSLab, UofT for the Maia project. The project has a GPL license. \
-I worked on frontend (and frontend only) in this project. Translate client requests into tasks. Created components such as the board states list, games list, and player stats. Designed the general ui. Made the website responsive and connected the frontend with our backend api.
+This is a group project done by Jing Jing (Angel) Yuan (me), Kevin Hong, Natalia Moran, Robin Gerster, Sina Abady, & William Wang for our client CSSLab, UofT for the Maia project. The project has a GNU GPL v3 license. <br /><br />
+Frontend Team: <br />
+I translated client requests into tasks. Created components such as the board states list, games list, and player stats. Designing the general ui. Made the website responsive and connected the frontend with our backend API.<br/>
+Robin implemented the navigation bar and filters component. William utilize an existing component to implement the chess board and implemented the board states for the chess board.
+<br /><br />
+Backend Team: <br />
+Natalia Worked on setting up the developing environments and the CICD workflows. Kevin worked on some of the frontend api calls. Sina worked on the analysis API calls. Where he connected our API with 3rd party APIs like lichess. 
 
-### Deliverable 1 Planning Document
-https://github.com/csc301-fall-2021/team-project-4-csslab-uoft/tree/main/deliverable-1
+### Our Project
+PROD env: http://dashboard.maiachess.com/<br />
+PROD API: http://dashboard.maiachess.com/api/docs<br />
+DEV env: http://dash-dev.maiachess.com/<br />
+DEV API: http://dash-dev.maiachess.com/api/docs<br />
 
-### Deliverable 1 Mockups
+### Mockups
 https://angelyuan218063.invisionapp.com/prototype/maia-chess-ckuaa4ek700agth01x08c0nbw/play/4b27e4b5
 
 # Local environment installation guidelines
